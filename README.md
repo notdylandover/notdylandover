@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @duhble
+- 👋 Hi, I’m @notdyLn
 - 👀 I’m interested in Games, Music, and Art.
 - 🌱 C++, HTML, CSS
-- 📫 Discord: døuble#0001
+- 📫 Discord: _dyln
 
-- Last Updated: 1-2-23
+- Last Updated: 8-30-23
