@@ -11,7 +11,14 @@
 🌐 &emsp; Also feel free to check out my [website](https://dylandover.dev)
 
 <h2>
-    <img src="https://img.icons8.com/material-outlined/20/FFFFFF/source-code.png"/>
+    	<img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width="20px" fill="white"/>
+	Discord
+</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/458854676557856790)](https://discord.com/users/458854676557856790)
+
+<h2>
+    	<img src="https://img.icons8.com/material-outlined/20/FFFFFF/source-code.png"/>
 	Languages I'm Proficient In
 </h2>
 
@@ -21,7 +28,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <h2>
-    <img src="https://img.icons8.com/material-outlined/20/FFFFFF/source-code.png"/>
+    	<img src="https://img.icons8.com/material-outlined/20/FFFFFF/source-code.png"/>
 	Languages I'm Still Learning
 </h2>
 
@@ -31,7 +38,7 @@
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h2>
-    <img src="https://img.icons8.com/color/20/visual-studio-code-2019.png"/>
+    	<img src="https://img.icons8.com/color/20/visual-studio-code-2019.png"/>
 	Coding Apps I Use
 </h2>
 
@@ -39,7 +46,7 @@
 ![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 <h2>
-    <img src="https://img.icons8.com/ios-glyphs/20/FFFFFF/github.png"/>
+    	<img src="https://img.icons8.com/ios-glyphs/20/FFFFFF/github.png"/>
 	My Public Repositories
 </h2>
 
