@@ -1,5 +1,5 @@
 <h2>
-  <img align="right" src="https://komarev.com/ghpvc/?username=notdyLn&label=Visitors&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=notdyLn&label=Visitors&color=222222&style=for-the-badge" alt="Views"/>
 	👋 Welcome!
 </h2>
 
