@@ -50,5 +50,6 @@
 	My Public Repositories
 </h2>
 
-[![AutoResponse](https://github-readme-stats.vercel.app/api/pin/?username=notdyLn&repo=AutoResponse&border_color=5865F2&bg_color=232428&title_color=CCC&text_color=AAA&icon_color=AAA)](https://github.com/notdyLn/AutoResponse)
-[![Spotify Web App](https://github-readme-stats.vercel.app/api/pin/?username=notdyLn&repo=spotify-web-app&border_color=1DB954&bg_color=121212&title_color=CCC&text_color=AAA&icon_color=AAA)](https://github.com/notdyLn/spotify-web-app)
+[![AutoResponse](https://github-readme-stats.vercel.app/api/pin/?username=notdylandover&repo=AutoResponse&border_color=5865F2&bg_color=232428&title_color=CCC&text_color=AAA&icon_color=AAA)](https://github.com/notdylandover/AutoResponse)
+[![Spotify Web App](https://github-readme-stats.vercel.app/api/pin/?username=notdylandover&repo=spotify-web-app&border_color=1DB954&bg_color=121212&title_color=CCC&text_color=AAA&icon_color=AAA)](https://github.com/notdylandover/spotify-web-app)
+[![dyLcore](https://github-readme-stats.vercel.app/api/pin/?username=notdylandover&repo=dyLcore&border_color=5865F2&bg_color=232428&title_color=CCC&text_color=AAA&icon_color=AAA)](https://github.com/notdylandover/dyLcore)
